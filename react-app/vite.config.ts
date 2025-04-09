@@ -13,6 +13,7 @@ export default defineConfig({
     host: true,
     allowedHosts: [
       'angular-sample-app-tunnel-pusennys.devinapps.com',
+      'angular-sample-app-tunnel-ot9zslze.devinapps.com',
       '.devinapps.com'
     ]
   },
